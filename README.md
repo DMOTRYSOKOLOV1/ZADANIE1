@@ -1,1 +1,1 @@
-# ZADANIE1
+# TRENING
