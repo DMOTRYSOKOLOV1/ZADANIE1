@@ -1,3 +1,2 @@
 # ZADANIE1
 
-first
